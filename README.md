@@ -11,7 +11,7 @@ Just import the library in the first line of your Python script. The grace perio
 
 main.py
 ```python
-import stopover
+import safemode
 print('Hello World')
 ```
 
